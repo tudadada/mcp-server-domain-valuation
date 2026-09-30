@@ -1,0 +1,5 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "name": "mcp-server-domain-valuation",
+  "description": "Model Context Protocol (MCP) server for enterprise domain valuation, liquid value modeling, and market multiple analytics."
+}

@@ -1,0 +1,37 @@
+{
+  "name": "mcp-server-domain-valuation",
+  "version": "1.0.0",
+  "description": "Model Context Protocol (MCP) server for enterprise domain valuation, liquid value modeling, and market multiple analytics.",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "mcp-server-domain-valuation": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "domain-valuation",
+    "domain-appraisal",
+    "enterprise-valuation",
+    "domain-investing"
+  ],
+  "author": "datutu <ceo@dottheworld.com>",
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE",
+    "smithery.yaml"
+  ],
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tudadada/mcp-server-domain-valuation.git"
+  },
+  "homepage": "https://github.com/tudadada/mcp-server-domain-valuation#readme"
+}
